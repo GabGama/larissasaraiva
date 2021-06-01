@@ -1,4 +1,4 @@
-#Olá ,  bem vindo ao meu Github!
+# Olá ,  bem vindo ao meu Github!
 
 
 <div>
@@ -14,7 +14,7 @@
   <img align="center" alt="Larissa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Larissa-C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-plain.svg">
   <img align="center" alt="Larissa-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
-  <img align="right" alt="Larissa" height"190" width = "200" src="https://i.pinimg.com/originals/df/ea/dd/dfeaddf703acf71277dbb1d6d81479b0.gif">
+  <img align="right" alt="Larissa" height"150" width = "160" src="https://media1.tenor.com/images/ece0713676b92973b1cebcbcf6996b1e/tenor.gif?itemid=11810055">
 </div>
   
   ##
@@ -25,7 +25,7 @@
   <a href = "mailto: lariissasaraiva@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/larissa-saraiva-51535b1b2/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
-  ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/larissasaraiva/larissasaraiva/blob/output/github-contribution-grid-snake.svg)
  
 </div>
 
