@@ -1,7 +1,39 @@
-###  Olá ,  bem vindo ao meu Github!
+#Olá ,  bem vindo ao meu Github!
 
-<a href=" https://www.instagram.com/larissaasaraiva/ "target="_blank"> <img src =" https://img.shields.io/badge/-Instagram-%23E4405F?style=for -the-badge & logo = instagram & logoColor = white "target =" _ blank "> </a>
-  <a href = "mailto: lariissasaraiva@gmail.com"> <img src = " https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white " target = "_ blank"> </a>
-  <a href=" https://www.linkedin.com/in/larissa-saraiva-51535b1b2/ "target="_blank"> <img src =" https://img.shields.io/badge/-LinkedIn- % 230077B5? Style = for-the-badge & logo = linkedin & logoColor = white "target =" _ blank "> </a>
 
-  ! [Animação de cobra] ( https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg )
+<div>
+  <a href="https://github.com/larissasaraiva">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=larissasaraiva&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=larissasaraiva&layout=compact&langs_count=16&theme=dracula"/>
+<div>
+<div style="display: inline_block"><br>
+  <img align="center" alt="Larissa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Larissa-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+  <img align="center" alt="Larissa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="Larissa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Larissa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Larissa-C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-plain.svg">
+  <img align="center" alt="Larissa-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
+  <img align="right" alt="Larissa" height"190" width = "200" src="https://i.pinimg.com/originals/df/ea/dd/dfeaddf703acf71277dbb1d6d81479b0.gif">
+</div>
+  
+  ##
+ 
+<div> 
+ 
+  <a href="https://www.instagram.com/larissaasaraiva/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href = "mailto: lariissasaraiva@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/larissa-saraiva-51535b1b2/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+ 
+  ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+ 
+</div>
+
+
+
+
+
+
+
+
+
