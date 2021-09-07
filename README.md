@@ -14,7 +14,7 @@
   <img align="center" alt="Larissa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Larissa-C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-plain.svg">
   <img align="center" alt="Larissa-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
-  <img align="right" alt="Larissa" height"150" width = "160" src="https://media1.tenor.com/images/ece0713676b92973b1cebcbcf6996b1e/tenor.gif?itemid=11810055">
+  <img align="right" alt="Larissa" height"150" width = "160" src="https://im7.ezgif.com/tmp/ezgif-7-6485041dbdf6.gif">
 </div>
   
   ##
